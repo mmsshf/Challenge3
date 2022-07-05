@@ -1,0 +1,139 @@
+.yes {
+    width:375px;
+}
+
+.yey {
+
+    width: 350px;
+    height: 375px;
+    border:1px solid #000;
+    margin-left: 520px;
+    margin-top: 100px;
+    border-radius: 8%;
+    background-color:  hsl(213, 19%, 18%);
+    color: hsl(0, 0%, 100%);
+
+}
+
+
+ .hi {
+
+margin-top: 50px;
+margin-left: 40px;
+cursor: pointer;
+color: hsl(25, 97%, 53%);
+
+    }  
+
+
+
+h3 {
+    /*padding: 50px 5px 5px 30px; */
+    margin-top: 60px;
+    margin-left: 30px;
+    font-family: 'Overpass', sans-serif;
+   
+}
+
+#e1 {
+   margin-top: 15px;
+   margin-left: 30px ;
+   margin-right: 30px;
+   font-size: 15px;
+   font-family: 'Overpass', sans-serif;
+  color:  hsl(217, 12%, 63%);
+}
+
+.btn1 {
+    height: 35px;
+    width: 35px;
+    border:1px solid #000;
+    background-color:	#505050;
+    border-radius: 50%; 
+    display: inline-block;
+    margin-left: 30px;
+    cursor: pointer;
+color: hsl(217, 12%, 63%);
+}
+
+.btn2 {
+    height: 35px;
+    width: 35px;
+    border:1px solid #000;
+    background-color:  #505050;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 15px;
+    cursor: pointer;
+    color: hsl(217, 12%, 63%);
+}
+
+.btn3 {
+    height: 35px;
+    width: 35px;
+    border:1px solid #000;
+    background-color:  #505050;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 15px;
+    cursor: pointer;
+    color: hsl(217, 12%, 63%);
+}
+
+.btn4 {
+    height: 35px;
+    width: 35px;
+    border:1px solid #000;
+    background-color:  #505050;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 15px;
+    cursor: pointer;
+    color: hsl(217, 12%, 63%);
+}
+
+.btn5 {
+    height: 35px;
+    width: 35px;
+    border:1px solid #000;
+    background-color:  #505050;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 15px;
+    cursor: pointer;
+    color: hsl(217, 12%, 63%);
+}
+
+.yup4 {
+     
+    width: 290px;
+    height: 40px;
+  
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+
+#e2 {
+    width: 290px;
+    height: 40px;
+    border:1px solid #000;
+    background-color:  hsl(25, 97%, 53%);
+color: hsl(0, 0%, 100%);
+    margin-left: 0px;
+    margin-bottom: 15px;
+    font-family: 'Overpass', sans-serif;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-top-left-radius: 40px;
+    cursor: pointer;
+}
+
+
+
+
+.like {
+text-align: center;
+
+}
